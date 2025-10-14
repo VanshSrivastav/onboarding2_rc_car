@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# MacOS
+.DS_Store
+
+# Backup files
+*~
